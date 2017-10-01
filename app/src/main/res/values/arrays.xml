@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="url_ex">
+        <item>http://dynamic-image.yesky.com/740x-/uploadImages/2016/337/09/2IM8874N8UW1.jpg</item>
+        <item>http://dynamic-image.yesky.com/740x-/uploadImages/2016/337/28/4FCNIYSFL6C0.jpg</item>
+        <item>http://dynamic-image.yesky.com/740x-/uploadImages/2016/337/29/1265OVLC842O.jpg</item>
+        <item>http://dynamic-image.yesky.com/740x-/uploadImages/2016/337/30/4ST1LY9X30SX.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/14_132358u5.jpg</item>
+        <item>http://dynamic-image.yesky.com/740x-/uploadImages/2016/335/07/SCSL41T4X881.jpg</item>
+        <item>http://image.tianjimedia.com/uploadImages/2016/335/07/A0WPL6NMW5JE.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/18_130148gg.jpg</item>
+        <item>http://dynamic-image.yesky.com/740x-/uploadImages/2016/323/41/AT2537H26240.jpg</item>
+        <item>http://dynamic-image.yesky.com/740x-/uploadImages/2016/049/23/5G2EY18R9U1I.jpg</item>
+        <item>http://www.zhlzw.com/UploadFiles/Article_UploadFiles/201210/20121006154611871.jpg</item>
+        <item>http://www.qiwen007.com/images/image/2017/0708/6363513444976444106642715.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/14_132709x5.jpg</item>
+        <item>http://www.qiwen007.com/images/image/2017/0807/6363772840620613883759869.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/11_131114e6.jpg</item>
+        <item>http://www.qiwen007.com/images/image/2017/0217/6362294062195431668577224.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/06_122613i8.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/06_122348bm.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/06_1223489q.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/06_1223485s.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/05_121441oo.jpg</item>
+        <item>http://www.qiwen007.com/images/ext_jpg/201709/05_12275691.jpg</item>
+        <item>http://www.qiwen007.com/images/image/2017/0704/6363478959308141834664346.jpg</item>
+        <item>http://www.qiwen007.com/images/image/2017/0704/6363478953475089181221567.jpg</item>
+        <item>http://www.qiwen007.com/images/image/2017/0704/6363478957209620555279965.jpg</item>
+    </string-array>
+</resources>

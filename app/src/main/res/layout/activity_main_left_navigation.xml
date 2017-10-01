@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <android.support.design.widget.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/left_view"
+        android:layout_gravity="start"
+
+        app:headerLayout="@layout/act_main_left_drawerlayout_header"
+        app:menu="@menu/main_left_navigation"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:orientation="horizontal"
+            android:background="@color/gray_white"
+            android:layout_gravity="bottom" >
+            <TextView
+                android:id="@+id/setting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/home_menu_6"
+                android:drawablePadding="10dp"
+                android:layout_marginLeft="20dp"
+                android:text="设置"
+                android:gravity="bottom"
+                android:textColor="@color/common_h2"
+                android:textSize="14sp"
+                android:layout_centerVertical="true"
+                />
+            <TextView
+                android:id="@+id/mode_setting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/theme_night"
+                android:drawablePadding="10dp"
+                android:layout_marginRight="20dp"
+                android:text="模式"
+                android:textColor="@color/common_h2"
+                android:textSize="14sp"
+                android:gravity="bottom"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                />
+        </RelativeLayout>
+    </android.support.design.widget.NavigationView>
+</merge>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/timg"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:orientation="horizontal"
+    android:layout_gravity="bottom"
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/home_menu_6"
+        android:drawablePadding="10dp"
+        android:layout_marginLeft="20dp"
+        android:text="设置"
+        android:gravity="bottom"
+        android:textColor="@color/common_h2"
+        android:textSize="14sp"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/theme_night"
+        android:drawablePadding="10dp"
+        android:layout_marginRight="20dp"
+        android:text="模式"
+        android:textColor="@color/common_h2"
+        android:textSize="14sp"
+        android:gravity="bottom"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        />
+
+</RelativeLayout>
+</FrameLayout>

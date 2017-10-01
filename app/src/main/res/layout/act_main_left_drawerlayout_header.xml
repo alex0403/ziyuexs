@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:nestedScrollingEnabled="true"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:background="@drawable/timg"
+        >
+        <ImageView
+            android:id="@+id/user_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/avatar_default"
+            android:layout_marginLeft="20dp"
+            />
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="刘承"
+            android:textSize="32sp"
+            android:textColor="@color/white"
+            android:layout_alignLeft="@id/user_photo"
+            android:layout_below="@id/user_photo"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:id="@+id/user_des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="明月即使有，把酒问青天，不知天上宫阙，今夕是何年..."
+            android:textSize="12sp"
+            android:textColor="@color/white"
+            android:layout_alignLeft="@id/user_name"
+            android:layout_below="@id/user_name"
+            android:layout_marginTop="5dp"
+            />
+    </RelativeLayout>
+
+
+</LinearLayout>
